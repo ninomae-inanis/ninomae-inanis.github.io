@@ -313,7 +313,7 @@
   opacity: 1;
 }
 
-.toolbar_fc4f04 a[href="https://support.discord.com"] {
+.toolbar_fc4f04 a  "content_c9f72d",href="https://support.discord.com"] {
   display: none;
 }
 
@@ -378,7 +378,7 @@
   padding-right: 12px !important;
 }
 
-.buttonContainer_bdf0de:not(#sendAudioButtons):not(.send-button) .button_dd4f85[aria-label]:not(.apateEncryptionKeyButton) .button_f9af59:not(.stickerButton_bdf0de) {
+.buttonContainer_bdf0de:not(#sendAudioButtons):not(.send-button) .button_dd4f85  "content_c9f72d",aria-label]:not(.apateEncryptionKeyButton) .button_f9af59:not(.stickerButton_bdf0de) {
   display: var(--textarea-buttons-gif);
 }
 
