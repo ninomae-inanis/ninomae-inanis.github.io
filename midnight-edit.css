@@ -45,7 +45,7 @@ body {
     .callContainer_cb9592 /* vc container */,
     .callContainer__722ff /* stage */ {
         background-color: var(--background-base-lower);
-        border-radius: var(--radius-lg);
+        border-radius: 0px;
         border: 1px solid var(--border-subtle);
         backdrop-filter: var(--panel-backdrop-filter);
     }
