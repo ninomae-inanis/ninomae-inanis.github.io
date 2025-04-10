@@ -1,5 +1,5 @@
 @import url(https://cdn.jsdelivr.net/gh/SuperStefan84/BetterDiscordFloatTheme/css/bearableInbox.css);
-@import url(https://discordstyles.github.io/HorizontalServerList/resizablelist.css);
+@import url(https://discordstyles.github.io/HorizontalServerList/HorizontalServerList.css);
 :root {
   --guildicon-size: 32;
   --enable-if-using-favorites-experiment: 0;
